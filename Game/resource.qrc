@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>deadBlueGhost.png</file>
+        <file>deadGreenGhost.png</file>
+        <file>deadRedGhost.png</file>
+        <file>ghostblue.png</file>
+        <file>ghostred.png</file>
+        <file>ghostyellow.png</file>
+        <file>healthpack.png</file>
+        <file>Loading_Screen.png</file>
+        <file>pacman.png</file>
+        <file>pacmanclosed.png</file>
+        <file>pacmandead.png</file>
+        <file>Victory_Screen.png</file>
+        <file>robotdance1.gif</file>
+        <file>robotdance2.gif</file>
+        <file>robotdance3.gif</file>
+        <file>robotdance0.gif</file>
+        <file>Defeat_Screen.png</file>
+        <file>robotdance4.gif</file>
+        <file>robotdance5.gif</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>autoplaystartlocation.wav</file>
+        <file>enemyDeath.wav</file>
+        <file>HpPackPickup.wav</file>
+        <file>lowHealthEffect.wav</file>
+        <file>playerDeath.wav</file>
+        <file>victorySound.wav</file>
+        <file>Welcome.wav</file>
+        <file>rotatingSound.wav</file>
+        <file>autoplaystart.wav</file>
+        <file>impossibleFile.wav</file>
+        <file>closingsound.wav</file>
+    </qresource>
+</RCC>
