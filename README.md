@@ -1,7 +1,7 @@
 # MediaProcessing_PathfindingGame_2018
 A game made for the Media Processing course to showcase pathfinding algorithms. The implemented algorithm is Jump Point Search+. Build for Ubuntu (uses unistd.h lib, so no Windows build).
 
-To open the project in the Game directory you need Qt5.
+To open the project in the Game directory you need Qt >= 5.11.
 
 Install Qt5.12: http://download.qt.io/archive/qt/5.12/5.12.0/qt-opensource-linux-x64-5.12.0.run <br>
 And QtCreator: https://download.qt.io/official_releases/qtcreator/4.14/4.14.0/qt-creator-opensource-src-4.14.0.zip
