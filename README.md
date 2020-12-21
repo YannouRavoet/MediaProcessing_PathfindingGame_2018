@@ -11,4 +11,6 @@ To run the build game in the build directory from terminal:
 	  cd <build dir>
 	  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./lib
 	  ./Game
-
+<p align="center">
+	<img src="https://github.com/YannouRavoet/MediaProcessing_PathfindingGame_2018/blob/master/PathfindingDemo.gif"/>
+</p>
