@@ -12,4 +12,4 @@ To run the build game in the build directory from terminal:
 	  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./lib
 	  ./Game
 
-[![IMAGE "demo of application"](https://github.com/YannouRavoet/MediaProcessing_PathfindingGame_2018/blob/master/PathfindingDemo.gif)](https://github.com/YannouRavoet/MediaProcessing_PathfindingGame_2018/blob/master/PathfindingDemo.gif)
+<img align="center" src="https://github.com/YannouRavoet/MediaProcessing_PathfindingGame_2018/blob/master/PathfindingDemo.gif"/>
