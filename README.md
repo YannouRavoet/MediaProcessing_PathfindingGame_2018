@@ -1,5 +1,5 @@
 # MediaProcessing_PathfindingGame_2018
-A game made for Media Processing to showcase pathfinding algorithms. The implemented algorithm is Jump Point Search+. Build for Ubuntu (uses unistd.h lib, so no Windows build).
+A game made for the Media Processing course to showcase pathfinding algorithms. The implemented algorithm is Jump Point Search+. Build for Ubuntu (uses unistd.h lib, so no Windows build).
 
 To open the project in the Game directory you need Qt5.
 
